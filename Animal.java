@@ -1,4 +1,4 @@
-public abstract  class Animal {
+public abstract class Animal {
     private MovementStrategy movementStrategy;
     private String animalType;
 
